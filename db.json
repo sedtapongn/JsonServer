@@ -50,7 +50,7 @@
         "expectedResult": "นำกำไรหลังหักค่าใช้จ่ายเพื่อบริจาค",
         "projectPeriod": "3 เดือน รวมโปรโมท",
         "supportRequest": "...",
-        "isVoted": false,
+        "isVoted": false
     },  
     {   
         "catId": "m-4",
@@ -76,7 +76,7 @@
         "expectedResult": "",
         "projectPeriod": "",
         "supportRequest": "",
-        "isVoted": true,
+        "isVoted": true
     },  
     {   
         "catId": "m-6",
@@ -102,7 +102,7 @@
         "expectedResult": "",
         "projectPeriod": "",
         "supportRequest": "",
-        "isVoted": true,
+        "isVoted": true
     },  
     {   
         "catId": "m-2",
@@ -128,7 +128,7 @@
         "expectedResult": "",
         "projectPeriod": "",
         "supportRequest": "",
-        "isVoted": false,
+        "isVoted": false
     },  
     {   
         "catId": "m-5",
@@ -154,7 +154,7 @@
         "expectedResult": "",
         "projectPeriod": "",
         "supportRequest": "",
-        "isVoted": false,
+        "isVoted": false
     }
   ]
 }
