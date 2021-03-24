@@ -164,7 +164,7 @@
       "ATTENTION_ICON":"fab fa-pagelines",
       "CREATED_BY":"ce15fbd2-662a-11eb-bf4a-543dbee3ef03",
       "CREATED_DATE":"2021-02-03T21:29:21",
-      "MODIFIED_BY":null,
+      "MODIFIED_BY":"",
       "MODIFIED_DATE":"2021-02-10T17:32:36"
    },
    {
@@ -173,7 +173,7 @@
       "ATTENTION_ICON":"fas fa-graduation-cap",
       "CREATED_BY":"ce15fbd2-662a-11eb-bf4a-543dbee3ef03",
       "CREATED_DATE":"2021-02-03T21:29:21",
-      "MODIFIED_BY":null,
+      "MODIFIED_BY":"",
       "MODIFIED_DATE":"2021-02-12T15:03:19"
    },
    {
@@ -182,7 +182,7 @@
       "ATTENTION_ICON":"far fa-calendar-alt",
       "CREATED_BY":"ce15fbd2-662a-11eb-bf4a-543dbee3ef03",
       "CREATED_DATE":"2021-02-03T21:29:21",
-      "MODIFIED_BY":null,
+      "MODIFIED_BY":"",
       "MODIFIED_DATE":"2021-02-10T17:31:24"
    },
    {
@@ -191,7 +191,7 @@
       "ATTENTION_ICON":"fas fa-praying-hands",
       "CREATED_BY":"ce15fbd2-662a-11eb-bf4a-543dbee3ef03",
       "CREATED_DATE":"2021-02-03T21:29:21",
-      "MODIFIED_BY":null,
+      "MODIFIED_BY":"",
       "MODIFIED_DATE":"2021-02-10T17:36:32"
    },
    {
@@ -200,7 +200,7 @@
       "ATTENTION_ICON":"fas fa-tractor",
       "CREATED_BY":"ce15fbd2-662a-11eb-bf4a-543dbee3ef03",
       "CREATED_DATE":"2021-02-03T21:29:21",
-      "MODIFIED_BY":null,
+      "MODIFIED_BY":"",
       "MODIFIED_DATE":"2021-02-10T17:36:11"
    },
    {
@@ -209,7 +209,7 @@
       "ATTENTION_ICON":"fas fa-gavel",
       "CREATED_BY":"ce15fbd2-662a-11eb-bf4a-543dbee3ef03",
       "CREATED_DATE":"2021-02-03T21:29:21",
-      "MODIFIED_BY":null,
+      "MODIFIED_BY":"",
       "MODIFIED_DATE":"2021-02-12T11:24:33"
    },
    {
@@ -218,7 +218,7 @@
       "ATTENTION_ICON":"fas fa-heartbeat",
       "CREATED_BY":"ce15fbd2-662a-11eb-bf4a-543dbee3ef03",
       "CREATED_DATE":"2021-02-03T21:29:21",
-      "MODIFIED_BY":null,
+      "MODIFIED_BY":"",
       "MODIFIED_DATE":"2021-02-10T17:32:52"
    },
    {
@@ -227,7 +227,7 @@
       "ATTENTION_ICON":"fas fa-palette",
       "CREATED_BY":"ce15fbd2-662a-11eb-bf4a-543dbee3ef03",
       "CREATED_DATE":"2021-02-03T21:29:21",
-      "MODIFIED_BY":null,
+      "MODIFIED_BY":"",
       "MODIFIED_DATE":"2021-02-10T17:32:29"
    },
    {
@@ -236,7 +236,7 @@
       "ATTENTION_ICON":"fas fa-user-friends",
       "CREATED_BY":"ce15fbd2-662a-11eb-bf4a-543dbee3ef03",
       "CREATED_DATE":"2021-02-03T21:29:21",
-      "MODIFIED_BY":null,
+      "MODIFIED_BY":"",
       "MODIFIED_DATE":"2021-02-10T17:31:46"
    },
    {
@@ -245,7 +245,7 @@
       "ATTENTION_ICON":"fas fa-users-cog",
       "CREATED_BY":"ce15fbd2-662a-11eb-bf4a-543dbee3ef03",
       "CREATED_DATE":"2021-02-03T21:29:21",
-      "MODIFIED_BY":null,
+      "MODIFIED_BY":"",
       "MODIFIED_DATE":"2021-02-10T17:35:39"
    }
 ]
